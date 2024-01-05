@@ -87,6 +87,7 @@ main {
     overflow: hidden;
     padding-bottom: 56.25%;
     margin-bottom: 2rem;
+    align-items: center;
 }
 
 iframe {
